@@ -1,0 +1,116 @@
+header .table {
+	display: table;
+	height: 100%;
+}
+
+header .containerX {
+	height: 600px;
+	background-image: url("../images/seniorastudio.jpg");
+
+}
+
+header .header-text {
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+	color: white;
+}
+
+header .typed {
+	display: inline-block;
+	margin: 0;
+}
+
+header .typed-cursor {
+	font-size: 60px;
+	display: inline-block;
+	margin: 0 10px;
+	background-color:#404040;
+	color: white;
+	-webkit-animation-name: flash;
+	animation-name: flash;
+	-webkit-animation-duration: 1s;
+	animation-duration: 1s;
+	-webkit-animation-iteration-count: infinite;
+	animation-iteration-count: infinite;
+}
+
+
+
+
+
+
+h3.light  {
+	 display:inline;
+    background-color:#404040;
+    color:#fff;
+
+}
+
+h1.white {
+	display:inline;
+    background-color:#404040;
+    color:#fff;
+
+}
+
+
+
+
+@media only screen and (max-width: 767px) {
+.light  {
+	 display:inline;
+    background-color:#404040;
+    color:#fff;
+    font-size: 18px;
+    line-height: 25px;
+}
+.white {
+	display:inline;
+    background-color:#404040;
+    color:#fff;
+    font-size: 22px;
+}
+.typed-cursor {
+	font-size: 25px;
+	display: inline-block;
+	margin: 0 10px;
+	background-color:#404040;
+	color: white;
+	-webkit-animation-name: flash;
+	animation-name: flash;
+	-webkit-animation-duration: 1s;
+	animation-duration: 1s;
+	-webkit-animation-iteration-count: infinite;
+	animation-iteration-count: infinite;
+}
+
+}
+@media only screen and (max-width: 479px) {
+
+.light  {
+	 display:inline;
+    background-color:#404040;
+    color:#fff;
+    font-size: 16px;
+}
+.white {
+	display:inline;
+    background-color:#404040;
+    color:#fff;
+    font-size: 22px;
+}
+.typed-cursor {
+	font-size: 25px;
+	display: inline-block;
+	margin: 0 10px;
+	background-color:#404040;
+	color: white;
+	-webkit-animation-name: flash;
+	animation-name: flash;
+	-webkit-animation-duration: 1s;
+	animation-duration: 1s;
+	-webkit-animation-iteration-count: infinite;
+	animation-iteration-count: infinite;
+}
+}

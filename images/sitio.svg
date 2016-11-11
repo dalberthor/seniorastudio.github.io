@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<svg width="90" height="70" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Capa 1</title>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <line y2="11.5" x2="84.750003" y1="11.5" x1="1" stroke-miterlimit="10" stroke-linejoin="round" stroke-width="3" stroke="#C7C7C7" fill="none" clip-path="url(#SVGID_2_)"/>
+  <path d="m10.053,6.58c0,0.902 -0.731,1.634 -1.635,1.634c-0.902,0 -1.633,-0.732 -1.633,-1.634c0,-0.903 0.731,-1.635 1.633,-1.635c0.904,0 1.635,0.732 1.635,1.635" fill="#C7C7C7" clip-path="url(#SVGID_2_)"/>
+  <path d="m15.053,6.58c0,0.902 -0.731,1.634 -1.635,1.634c-0.902,0 -1.633,-0.732 -1.633,-1.634c0,-0.903 0.731,-1.635 1.633,-1.635c0.904,0 1.635,0.732 1.635,1.635" fill="#8D81AC" clip-path="url(#SVGID_2_)"/>
+  <path d="m20.052999,6.58c0,0.902 -0.730999,1.634 -1.635,1.634c-0.901999,0 -1.632999,-0.732 -1.632999,-1.634c0,-0.903 0.731001,-1.635 1.632999,-1.635c0.904001,0 1.635,0.732 1.635,1.635" fill="#C7C7C7" clip-path="url(#SVGID_2_)"/>
+  <rect height="31.75" width="46.5" stroke-miterlimit="10" stroke-linejoin="round" stroke-width="3" stroke="#C7C7C7" fill="none" clip-path="url(#SVGID_2_)" y="24.75" x="8.25"/>
+  <rect height="43.5" width="18.25" stroke-miterlimit="10" stroke-linejoin="round" stroke-width="3" stroke="#C7C7C7" fill="none" clip-path="url(#SVGID_2_)" y="18.75" x="64.25"/>
+  <line y2="19.25" x2="54.000003" y1="19.25" x1="10" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" stroke="#8D81AC" fill="none" clip-path="url(#SVGID_2_)"/>
+  <line y2="30.75" x2="42.25" y1="30.75" x1="19.25" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" stroke="#8D81AC" fill="none" clip-path="url(#SVGID_2_)"/>
+  <line y2="65" x2="31.25" y1="65" x1="8.25" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" stroke="#8D81AC" fill="none" clip-path="url(#SVGID_2_)"/>
+  <line y2="5.75" x2="78.25" y1="5.75" x1="30.25" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" stroke="#8D81AC" fill="none" clip-path="url(#SVGID_2_)"/>
+  <ellipse ry="3.75" rx="4.75" id="svg_2" cy="29" cx="73.875" stroke-linecap="null" stroke-linejoin="round" stroke-dasharray="null" stroke-width="3" stroke="#C7C7C7" fill="none"/>
+  <rect id="svg_3" height="15.5" width="15.5" y="34.25" x="58.875" stroke-linecap="null" stroke-linejoin="round" stroke-dasharray="null" stroke-width="3" stroke="#C7C7C7" fill="none"/>
+  <rect id="svg_4" height="66.749998" width="87.25" y="1.750002" x="1.125" stroke-linecap="null" stroke-linejoin="round" stroke-dasharray="null" stroke-width="3" stroke="#C7C7C7" fill="none"/>
+ </g>
+</svg>

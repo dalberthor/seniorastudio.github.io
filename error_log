@@ -1,0 +1,8 @@
+[05-Jun-2015 16:36:20 America/Chicago] PHP Warning:  require_once(recaptchalib.php): failed to open stream: No such file or directory in /home2/alberto/public_html/danysites.com/index.php on line 131
+[05-Jun-2015 16:36:20 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'recaptchalib.php' (include_path='.:/opt/php54/lib/php') in /home2/alberto/public_html/danysites.com/index.php on line 131
+[05-Jun-2015 16:36:20 America/Chicago] PHP Warning:  require_once(recaptchalib.php): failed to open stream: No such file or directory in /home2/alberto/public_html/danysites.com/index.php on line 131
+[05-Jun-2015 16:36:20 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'recaptchalib.php' (include_path='.:/opt/php54/lib/php') in /home2/alberto/public_html/danysites.com/index.php on line 131
+[05-Jun-2015 16:40:22 America/Chicago] PHP Warning:  require_once(recaptchalib.php): failed to open stream: No such file or directory in /home2/alberto/public_html/danysites.com/index.php on line 123
+[05-Jun-2015 16:40:22 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'recaptchalib.php' (include_path='.:/opt/php54/lib/php') in /home2/alberto/public_html/danysites.com/index.php on line 123
+[05-Jun-2015 16:40:22 America/Chicago] PHP Warning:  require_once(recaptchalib.php): failed to open stream: No such file or directory in /home2/alberto/public_html/danysites.com/index.php on line 123
+[05-Jun-2015 16:40:22 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'recaptchalib.php' (include_path='.:/opt/php54/lib/php') in /home2/alberto/public_html/danysites.com/index.php on line 123
